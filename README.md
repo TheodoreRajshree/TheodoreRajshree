@@ -129,11 +129,5 @@ Worked on real-world software systems while gaining practical experience in:
 
 ---
 
-## 📫 Connect With Me
-
-GitHub: *(Add your GitHub profile link)*
-LinkedIn: *(Add LinkedIn link)*
-
----
 
 ⭐ *Always exploring new technologies and building solutions that make systems smarter and more efficient.*
