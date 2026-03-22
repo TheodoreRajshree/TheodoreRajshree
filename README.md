@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3AwOWV1Yjc3b3N3eDl6b2dtcGhibm1sM3d6c20yN3I3YTc4MzdwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1UoR0xafQdoYvbibEZ/200.webp" width="40%" alt="Animated Header" style="border-radius: 12px; margin-bottom: 20px;" />
 </p>
-
+ <h1 style="font-size: 2.5rem; letter-spacing: 2px;">Rajshree Asole</h1>
 # ⚡ Rajshree Asole – Software Developer & AIML Enthusiast
 
 *"I build software that solves real-world problems with smart design, efficient logic, and intelligent systems."*
