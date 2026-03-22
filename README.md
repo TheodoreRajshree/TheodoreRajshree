@@ -1,15 +1,15 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="50%" alt="header" style="border-radius: 8px; margin-bottom: 20px;" />
+  <img src="https://ai.plainenglish.io/editing-code-with-ai-2206a50aa8c6" width="50%" alt="header" style="border-radius: 8px; margin-bottom: 20px;" />
 
-  <h1 style="font-size: 2.5rem; letter-spacing: 2px;">ANUSHKA PANKAJ GUPTA</h1>
+  <h1 style="font-size: 2.5rem; letter-spacing: 2px;">Rajshree Asole</h1>
   
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Orator;Building+Scalable+Intelligence;Open+Source+Contributor;B.Tech+%40+YCCE+'28" alt="Typing SVG" />
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/anushka-gupta-b867b5296/" target="_blank">
+    <a href="https://www.linkedin.com/in/rajshree-asole-2b43282ba/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:anushkagupta71lofficial@gmail.com">
