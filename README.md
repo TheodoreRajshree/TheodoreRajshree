@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3AwOWV1Yjc3b3N3eDl6b2dtcGhibm1sM3d6c20yN3I3YTc4MzdwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1UoR0xafQdoYvbibEZ/200.webp" width="40%" alt="Animated Header" style="border-radius: 12px; margin-bottom: 20px;" />
 </p>
- <h1 align="center" ,color="green", style="font-size: 2.5rem; letter-spacing: 2px;">Rajshree Asole</h1>
+ <h1 align="center" ,bgcolor="green", style="font-size: 2.5rem; letter-spacing: 2px;">Rajshree Asole</h1>
 
-     <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Orator;Rajshree+Asole;Open+Source+Contributor;B.Tech+%40+YCCE+'28" alt="Typing SVG" />
-  </p>
+
 # ⚡ Rajshree Asole – Software Developer & AIML Enthusiast
 
 *"I build software that solves real-world problems with smart design, efficient logic, and intelligent systems."*
