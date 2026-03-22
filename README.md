@@ -1,5 +1,5 @@
 ⚡ Rajshree Asole – Software Developer & AIML Enthusiast
-![Description]("E:\github.gif")
+![Description](E:\github.gif)
 
 "I don’t just write code; I build intelligent systems that think, learn, and solve real-world problems."
 
