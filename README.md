@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3AwOWV1Yjc3b3N3eDl6b2dtcGhibm1sM3d6c20yN3I3YTc4MzdwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1UoR0xafQdoYvbibEZ/200.webp" width="60%" alt="Animated Header" style="border-radius: 12px; margin-bottom: 20px;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3AwOWV1Yjc3b3N3eDl6b2dtcGhibm1sM3d6c20yN3I3YTc4MzdwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1UoR0xafQdoYvbibEZ/200.webp" width="40%" alt="Animated Header" style="border-radius: 12px; margin-bottom: 20px;" />
 </p>
 
 # ⚡ Rajshree Asole – Software Developer & AIML Enthusiast
