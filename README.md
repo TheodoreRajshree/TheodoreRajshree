@@ -1,133 +1,19 @@
-# ⚡ System Status: [ONLINE]
+⚡ Rajshree Asole – Software Developer & AIML Enthusiast
 
-*"I build software that not only works, but solves real-world problems through smart design and efficient logic."*
+"I don’t just write code; I build intelligent systems that think, learn, and solve real-world problems."
 
-I am **Rajshree Asole**, a passionate **Software Developer and AIML Enthusiast** with experience in **Full Stack Development, Web Systems, and Machine Learning**.
-My focus is on building **practical software solutions, scalable web applications, and intelligent data-driven systems.**
+I create practical and scalable software solutions blending full-stack development, AI/ML, and smart system design. With a 6-month Full Stack Development internship at ICEICO Software Company, I gained hands-on experience building scalable web applications, backend systems, and enterprise workflows, honing my problem-solving and design skills.
 
----
+I thrive on designing systems that enhance user experiences, automate processes, and provide actionable insights. My philosophy: code should not only work—it should work smarter, cleaner, and faster.
 
-## 🚀 Current Directive
+⭐ Turning ideas into intelligent, efficient, and practical systems that make an impact.
 
-Developing real-world web applications and intelligent systems including **product management platforms, customer behavior analysis systems, and ML-based prediction models.**
+💻 Technical Stack
+Category	Technologies & Tools
+Languages	<span style="color:#f1c40f">Python</span>, <span style="color:#3498db">Java</span>, <span style="color:#2ecc71">C</span>, <span style="color:#e67e22">PHP</span>, <span style="color:#9b59b6">JavaScript</span>
+Web Development	<span style="color:#e74c3c">HTML</span>, <span style="color:#f39c12">CSS</span>, <span style="color:#2980b9">Bootstrap</span>, JavaScript
+Backend	PHP, MySQL, REST APIs
+Machine Learning & AI	Linear Regression, K-Means Clustering, Data Analysis (Python)
+Tools & Platforms	Git & GitHub, VS Code, NetBeans, Razorpay Integration
+Cloud & Architecture	Scalable Web Systems, Backend Design, API Integration
 
----
-
-## 🌱 Learning Protocol
-
-* Advanced **Full Stack Development**
-* **Machine Learning & AI Applications**
-* **Backend System Design**
-* **Cloud & Scalable Web Architecture**
-
----
-
-## 🛡️ Core Domain
-
-* Web Development (Frontend + Backend)
-* Machine Learning & Data Analysis
-* Database Design and Integration
-* API Integration and Web Services
-
----
-
-## 💻 Technical Stack
-
-**Languages**
-
-* C
-* Python
-* Java
-* PHP
-* JavaScript
-
-**Web Technologies**
-
-* HTML
-* CSS
-* Bootstrap
-* JavaScript
-
-**Backend**
-
-* PHP
-* MySQL
-* REST APIs
-
-**Machine Learning**
-
-* Linear Regression
-* Customer Segmentation (K-Means)
-* Data Analysis using Python
-
-**Tools & Platforms**
-
-* Git & GitHub
-* NetBeans
-* VS Code
-* Razorpay (Payment Gateway Integration)
-
----
-
-## 🧠 Key Projects
-
-### 📊 Amazon Product Price Prediction
-
-Developed a **Machine Learning model using Linear Regression** to predict product prices based on product features.
-The system allows users to input product details and receive **accurate price predictions**.
-
----
-
-### 🏢 UdyogKaksh Web Platform
-
-A **Full Stack Web Application** designed to manage product distribution and user orders.
-
-Features include:
-
-* Admin panel for product management
-* User panel for ordering products
-* Online payment integration using Razorpay
-* Automated receipt generation with GST and TDS calculations
-* Associate linking (Regional, District, Taluka, Village)
-* Interactive company location map using Leaflet.js
-
----
-
-### 🛍️ Customer Chain Prediction System
-
-Developed a **Machine Learning model to analyze and predict customer behavior patterns** using clustering techniques.
-The system groups customers based on purchasing patterns to help businesses **improve marketing strategies and customer targeting**.
-
----
-
-### 🌐 Language Translator Web Application
-
-Built a **web-based language translation system** that allows users to translate text between different languages.
-The system uses **API-based translation services** and a user-friendly interface for quick language conversion.
-
----
-
-## 🏢 Professional Experience
-
-**Full Stack Development Intern (6 Months)**
-ICEICO Software Company
-
-Worked on real-world software systems while gaining practical experience in:
-
-* Full stack web development
-* Backend integration and database management
-* Building scalable web applications
-* Implementing real-world project features and workflows
-
----
-
-## 📌 Development Philosophy
-
-* Write **clean and maintainable code**
-* Build **practical and scalable systems**
-* Focus on **problem-solving and continuous learning**
-
----
-
-
-⭐ *Always exploring new technologies and building solutions that make systems smarter and more efficient.*
