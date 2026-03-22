@@ -60,5 +60,5 @@ I specialize in **Full Stack Development, Web Systems, and Machine Learning**, c
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rajshree-asole/)  
-- [GitHub](https://github.com/YourGitHubUsername)  
+- [LinkedIn](https://www.linkedin.com/in/rajshree-asole-2b43282ba/)  
+
