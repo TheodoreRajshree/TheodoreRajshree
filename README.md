@@ -1,108 +1,62 @@
-<div align="center">
+<p align="center">
+  <img src="images/github.gif" width="60%" alt="Animated Header" style="border-radius: 12px; margin-bottom: 20px;" />
+</p>
 
-  <img src="https://tenor.com/view/magic-computer-penguin-ai-data-gif-16700979819259403905" width="50%" alt="header" style="border-radius: 8px; margin-bottom: 20px;" />
-  
- 
+# ⚡ Rajshree Asole – Software Developer & AIML Enthusiast
 
-  <h1 style="font-size: 2.5rem; letter-spacing: 2px;">Rajshree Asole</h1>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Orator;Building+Scalable+Intelligence;Open+Source+Contributor;B.Tech+%40+YCCE+'28" alt="Typing SVG" />
-  </p>
+*"I build software that solves real-world problems with smart design, efficient logic, and intelligent systems."*
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/rajshree-asole-2b43282ba/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:anushkagupta71lofficial@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://leetcode.com/u/fJhTbpEPyK/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-  </p>
-
-</div>
+I specialize in **Full Stack Development, Web Systems, and Machine Learning**, creating **practical, scalable, and data-driven solutions** that make a real impact.  
 
 ---
 
-### ⚡ System Status: **[ONLINE]**
-
-> *"I build software that isn't just functional, but intelligent and intuitive."*
-
-I am an **AI/ML Engineer** and **Full Stack Developer** specializing in the intersection of Generative AI, Computer Vision, and Cloud Architecture. My focus is on engineering scalable agentic workflows and immersive web systems.
-
-* 🔭 **Current Directive:** Architecting Agentic AI workflows & Multimodal Systems.
-* 🌱 **Learning Protocol:** Advanced System Design, Cloud Native Architectures (GCP).
-* 🛡️ **Core Domain:** NLP Optimization, LLMs and API Integration, AIML
+## 🚀 Current Focus
+- Developing **web applications** and **intelligent systems**  
+- Building **product management platforms, customer analytics systems, and ML prediction models**
 
 ---
 
-### 🧰 Technical Infrastructure
-
-<div align="center">
-
-| **Core** | **Frameworks & Libraries** | **Cloud & DevOps** |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-
-</div>
+## 🌱 Learning Goals
+- Advanced **Full Stack Development**  
+- **Machine Learning & AI Applications**  
+- Backend & **Cloud Architecture**  
+- **Scalable Web Systems Design**  
 
 ---
 
-### 🎖️ Credentials & Verified Skills
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>☁️ Cloud Competency</h3>
-        <a href="https://www.skills.google/public_profiles/e17c2671-1f27-4d09-9210-3aa8a783e8bb" target="_blank">
-          <img src="https://img.shields.io/badge/Google_Cloud_Profile-Verified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-        </a>
-        <br/><br/>
-        <i>Verified skills in Cloud Engineering & AI</i>
-      </td>
-      <td align="center" width="50%">
-        <h3>📜 Certificate Repository</h3>
-        <a href="https://drive.google.com/drive/u/0/folders/11gZftJv7XdyYTGOQ-RuSR9ELA7Ja-atM" target="_blank">
-          <img src="https://img.shields.io/badge/View_All_Certificates-Access_Granted-success?style=for-the-badge&logo=google-drive&logoColor=white" />
-        </a>
-        <br/><br/>
-        <i>Technical Certifications Archive</i>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🛡️ Core Expertise
+- Web Development (Frontend & Backend)  
+- Machine Learning & Data Analysis  
+- Database Design & Integration  
+- API Development & Web Services  
 
 ---
 
-### 🚀 Deployed Protocols (Featured Projects)
+## 💻 Technical Stack
 
-#### **1. [Sach.AI | Secure AI for Checking Hoaxes](https://github.com/anushkagupta71l)**
-`NLP` `BERT` `React` `Node.js`
-> **Awarded 3rd Prize at SITANK 2025 (Symbiosis International)**.
-> A multilingual fake-news detection system leveraging **Sentiment Analysis** and **NER**. Engineered a complete pipeline from data ingestion to a real-time React frontend.
-
-#### **2. [J.A.R.V.I.S | AI Automation Agent](https://github.com/anushkagupta71l)**
-`Python` `Selenium` `Hugging Face` `BeautifulSoup`
-> An autonomous agent capable of multimodal interaction. It executes complex web tasks and scrapes data autonomously, utilizing **Transformers** for intent classification and **Selenium** for browser orchestration.
-
-#### **3. [RealTime Particle Engine (RTPE)](https://pseudoanushka.github.io/jarvis/)**
-`WebGL` `Three.js` `MediaPipe` `Computer Vision`
-> **[🔴 LIVE DEMO](https://pseudoanushka.github.io/jarvis/)**
-> High-performance simulation rendering **25,000+ interactive particles** at 60 FPS. Maps hand gestures to physics events with sub-100ms latency.
+| **Category** | **Technologies & Tools** |
+|--------------|-------------------------|
+| **Languages** | <span style="color:#f1c40f">Python</span>, <span style="color:#3498db">Java</span>, <span style="color:#2ecc71">C</span>, <span style="color:#e67e22">PHP</span>, <span style="color:#9b59b6">JavaScript</span> |
+| **Web Development** | HTML, CSS, Bootstrap, JavaScript |
+| **Backend** | PHP, MySQL, REST APIs |
+| **Machine Learning & Data** | Linear Regression, K-Means Clustering, Data Analysis (Python) |
+| **Tools & Platforms** | Git & GitHub, VS Code, NetBeans, Razorpay Integration |
+| **Cloud & Architecture** | Scalable Web Systems, Backend Design, API Integration |
 
 ---
 
+## 🏢 Professional Experience
+**Full Stack Development Intern – ICEICO Software Company (6 Months)**  
+- Developed **scalable web applications** with integrated backend systems  
+- Managed **databases and real-world project workflows**  
+- Implemented **enterprise-grade features and solutions**
 
-<br />
+---
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2x2dnhydjVzd3JnMzBjcXowcnN6N3phYmEybmJ3emw3aGl1ZzZrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pGVrRLHRzoRcQ/giphy.gif" width="200%" height="300" style="border-radius:10px; opacity: 0.9;"/>
-  <br/><br/>
-  <h3 style="font-family: monospace;">"Jarvis, sometimes you gotta run before you can walk." 🛡️</h3>
-</div>
+⭐ *I transform ideas into intelligent, efficient, and practical systems that work smarter, not harder.*
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/rajshree-asole/)  
+- [GitHub](https://github.com/YourGitHubUsername)  
