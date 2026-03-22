@@ -3,7 +3,9 @@
 </p>
  <h1 align="center" ,color="green", style="font-size: 2.5rem; letter-spacing: 2px;">Rajshree Asole</h1>
 
-   
+     <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Orator;Rajshree+Asole;Open+Source+Contributor;B.Tech+%40+YCCE+'28" alt="Typing SVG" />
+  </p>
 # ⚡ Rajshree Asole – Software Developer & AIML Enthusiast
 
 *"I build software that solves real-world problems with smart design, efficient logic, and intelligent systems."*
