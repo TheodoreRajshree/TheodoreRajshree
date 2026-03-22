@@ -1,6 +1,6 @@
 ⚡ Rajshree Asole – Software Developer & AIML Enthusiast
 ![Description](assests\github.gif)
-
+![GitHub Demo](https://ai.plainenglish.io/editing-code-with-ai-2206a50aa8c6)
 "I don’t just write code; I build intelligent systems that think, learn, and solve real-world problems."
 
 I create practical and scalable software solutions blending full-stack development, AI/ML, and smart system design. With a 6-month Full Stack Development internship at ICEICO Software Company, I gained hands-on experience building scalable web applications, backend systems, and enterprise workflows, honing my problem-solving and design skills.
