@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://tenor.com/view/ai-grok-artificial-intelligence-computer-tech-gif-14561996707246089000" width="50%" alt="header" style="border-radius: 8px; margin-bottom: 20px;" />
+  <img src="https://tenor.com/view/ai-grok-agent-artificial-intelligence-computer-gif-9607861011889765197" width="50%" alt="header" style="border-radius: 8px; margin-bottom: 20px;" />
 
   <h1 style="font-size: 2.5rem; letter-spacing: 2px;">Rajshree Asole</h1>
   
