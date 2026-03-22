@@ -2,9 +2,7 @@
 
   <img src="https://tenor.com/view/magic-computer-penguin-ai-data-gif-16700979819259403905" width="50%" alt="header" style="border-radius: 8px; margin-bottom: 20px;" />
   
-  <p align="center">
-  <img src="image\piza-ninjas-pizzaninjas.gif" width="50%" alt="Pizza Coding GIF" style="border-radius: 8px; margin-bottom: 20px;" />
-</p>
+ 
 
   <h1 style="font-size: 2.5rem; letter-spacing: 2px;">Rajshree Asole</h1>
   
